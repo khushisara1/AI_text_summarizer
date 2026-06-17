@@ -16,5 +16,3 @@ Paste any long text and instantly get:
 3. Add your Gemini API key to .env
 4. streamlit run app.py
 
-## Screenshot
-[add a screenshot here]
