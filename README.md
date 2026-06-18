@@ -16,3 +16,6 @@ Paste any long text and instantly get:
 3. Add your Gemini API key to .env
 4. streamlit run app.py
 
+## Project live link
+https://saraa2006-ai-text-summarizer.hf.space/
+![alt text](image.png)
